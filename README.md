@@ -1,6 +1,6 @@
 # 𝐻𝑖 𝑊𝐸𝐿𝐶𝑂𝑀𝐸 𝑇𝑂 𝑀𝑌𝑆𝐴𝑀𝑊𝑂𝑅𝐿𝐷 🛸
 
-🌱 I’m currently learning Rajamangala University Of Technology Srivijaya
+🌱 I’m currently learning Rajamangala University Of Technology Srivijaya <br>
 💬 Ask me about PROFILE
 
 ![alt text](https://github.com/suhaimeeyk/suhaimee/blob/eaed419d4e02760b0f4726b288ff2d34d0e43396/githubprofile/profile.png "Logo Title Text 1")
