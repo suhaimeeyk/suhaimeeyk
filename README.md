@@ -4,7 +4,7 @@
 <a href="mailto:suhaime.yk@gmail.com"><img src="https://img.shields.io/badge/-suhaime.yk@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 <a href="https://www.instagram.com/_saemmee_/"><img src="https://img.shields.io/badge/-@_saemmee_-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
 <a href="https://web.facebook.com/suraimee.yk/"><img src="https://img.shields.io/badge/-@Suhâiimëe Yk-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
-<a href="https://www.youtube.com/channel/UCqvtwhXjAJ1pM05ab51BU2Q"><img src="https://img.shields.io/badge/-@Hiphipsam Yk.-BD081C?style=flat&logo=Youtube&logoColor=white"/></a>
+<a href="https://www.youtube.com/channel/UCqvtwhXjAJ1pM05ab51BU2Q"><img src="https://img.shields.io/badge/-@Hiphipsam Yk-BD081C?style=flat&logo=Youtube&logoColor=white"/></a>
 </p>
 🌱 I’m currently learning Rajamangala University Of Technology Srivijaya <br>
 ## 💬 Ask me about PROFILE <br>
