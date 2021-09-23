@@ -1,7 +1,7 @@
 # 𝐻𝑖 𝑊𝐸𝐿𝐶𝑂𝑀𝐸 𝑇𝑂 𝑀𝑌𝑆𝐴𝑀𝑊𝑂𝑅𝐿𝐷 🛸
 
 🌱 I’m currently learning Rajamangala University Of Technology Srivijaya <br>
-🔭 I’m currently working on My page Hiphipsam <br>
+🔭 I’m currently working on My page 'Hiphipsam' <br>
 ![alt text](https://github.com/suhaimeeyk/suhaimee/blob/c8ed333960ba2b976b03ced0d457b10e00843270/githubprofile/logo.png "Logo Title Text 1")
 <br>
 💬 Ask me about PROFILE
