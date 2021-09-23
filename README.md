@@ -1,7 +1,7 @@
 ### Hi there 👋
 🔭 I’m currently working on Student
 
-Inline-style: 
+MY RESUME : 
 ![alt text](https://github.com/suhaimeeyk/suhaimee/blob/eaed419d4e02760b0f4726b288ff2d34d0e43396/githubprofile/profile.png "Logo Title Text 1")
 
 <!--
